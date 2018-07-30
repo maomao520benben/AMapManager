@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AMapManager_Example' do
+  pod 'AMapManager', :path => '../'
+
+  target 'AMapManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
