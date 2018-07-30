@@ -1,0 +1,6 @@
+framework module AMapManager {
+  umbrella header "AMapManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

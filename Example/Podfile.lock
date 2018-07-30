@@ -1,0 +1,16 @@
+PODS:
+  - AMapManager (0.1.0)
+
+DEPENDENCIES:
+  - AMapManager (from `../`)
+
+EXTERNAL SOURCES:
+  AMapManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AMapManager: 86859de60086b1f15cb22841f9e1404cfd1efd3c
+
+PODFILE CHECKSUM: fcad6a04560880f2c5b250c4e571a7c7ef3072be
+
+COCOAPODS: 1.5.2

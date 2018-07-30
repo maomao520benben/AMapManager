@@ -1,0 +1,6 @@
+framework module Pods_AMapManager_Tests {
+  umbrella header "Pods-AMapManager_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
